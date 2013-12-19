@@ -1,0 +1,15 @@
+{
+    "name" : "epoplive/shorty",
+    "description": "Simple URL Shortener.",
+    "authors": [
+        {
+            "name": "Brett Thomas",
+            "email": "brett.thomas@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "Shorty\\": "src"
+        }
+    }
+}
